@@ -1,2 +1,2 @@
 # manmohan singh
-tribute to manmohan singh 
+tribute to DR. Manmohan Singh 
