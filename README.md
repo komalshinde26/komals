@@ -1,2 +1,2 @@
-# komals
+# manmohan singh
 tribute to manmohan singh 
