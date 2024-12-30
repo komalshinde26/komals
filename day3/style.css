@@ -1,0 +1,26 @@
+h1{
+    color: brown;
+    background-color: aquamarine;
+    text-align:center;
+}
+p{
+    color:blueviolet
+}
+
+
+.heading {
+    color: darkgreen;
+}
+.heading22{
+    color:darkseagreen
+} 
+
+#para{
+    background-color: burlywood;
+}
+
+
+*{
+    color: deeppink;
+    background-color: indianred;
+}
